@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding&display=swap');
+body {
+    background-color: rgb(243, 238, 255) ;
+    padding: 50px;
+    font-family: 'Nanum Gothic Coding', monospace;
+}
+
+h2 {
+    color: gray;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+div.card-resumo {
+    
+    border-radius: 30px;
+    font-size: 25;
+    display: inline-block;
+    width: 240;
+    padding: 15;
+    background-color: white;
+    margin-right: 40px;
+    
+}
+
+.titulo {
+    color: gray;
+    font-size: medium ;
+    text-align: left; 
+    
+}
+
+.valor {
+    color: black;    
+    font-size: 40;
+    margin: 0px;
+    text-align: left;
+
+}
+
+.porazul {
+    color: rgb(70, 70, 255);
+    font-size: 15;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.porver {
+color: red;
+font-size: 15;
+font-weight: bolder;
+text-align: center;
+}
+
+.card1 {
+    
+    background-color: rgb(70, 70, 255);
+    box-shadow: 7px 7px 14px 7px rgba(70, 70, 255, 0.5);
+    width: 500px;
+    padding: 60px;
+    text-align: justify;
+    border-radius: 20px;
+    display: inline-block;
+    margin-left: 2px;
+
+}
+
+.card2 {
+    background-color: white;
+    width: 500px;
+    padding: 60px;
+    text-align: justify;
+    border-radius: 20px;
+    display: inline-block;
+    margin-left: 2px;
+}
+
+section {
+    margin-left: 20px;
+    margin-top: 60px;
+}
